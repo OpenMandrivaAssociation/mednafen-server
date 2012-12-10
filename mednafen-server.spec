@@ -37,3 +37,25 @@ rm -rf %{buildroot}
 %clean
 rm -rf %{buildroot}
 
+
+
+%changelog
+* Thu Jul 19 2012 Zombie Ryushu <ryushu@mandriva.org> 0.5.0-1mdv2011.0
++ Revision: 810305
+- Upgrade to 0.5.0
+
+* Sat Jul 07 2012 Zombie Ryushu <ryushu@mandriva.org> 0.4.2-1
++ Revision: 808452
+- Upgrade 0.4.2
+
+* Sat Jul 30 2011 Andrey Bondrov <abondrov@mandriva.org> 0.4.1-2
++ Revision: 692340
+- imported package mednafen-server
+
+
+* Thu Jul 21 2010 Andrey Bondrov <bondrov@math.dvgu.ru> 0.4.1-1mdv2011.0
+- Import from PLF
+- Remove PLF reference
+
+* Sat Jun  5 2010 Guillaume Bedot <littletux@zarb.org> 0.4.1-1plf2010.1
+- First package for PLF

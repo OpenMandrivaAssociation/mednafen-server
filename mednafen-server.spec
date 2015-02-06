@@ -1,6 +1,6 @@
 Name:			mednafen-server
 Version:		0.5.0
-Release:		%mkrel 1
+Release:		2
 
 Summary:	Mednafen Network Play Server
 License:	GPLv2+

@@ -4,7 +4,7 @@ Release:		2
 
 Summary:	Mednafen Network Play Server
 License:	GPLv2+
-URL:		http://mednafen.sourceforge.net/
+URL:		https://mednafen.sourceforge.net/
 Group:		Emulators
 Source0:	http://downloads.sourceforge.net/mednafen/%{name}-%{version}.tar.bz2
 BuildRoot:	%{_tmppath}/%{name}-%{version}
